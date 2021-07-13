@@ -1,0 +1,24 @@
+{
+  "name": "@onehilltech/override",
+  "version": "1.0.0",
+  "description": "Utility for overriding a single function and exposing a _super reference",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/onehilltech/override.git"
+  },
+  "keywords": [
+    "override",
+    "super",
+    "_super"
+  ],
+  "author": "One Hill Technologies, LLC",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/onehilltech/override/issues"
+  },
+  "homepage": "https://github.com/onehilltech/override#readme"
+}
