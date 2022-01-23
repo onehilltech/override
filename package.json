@@ -1,6 +1,6 @@
 {
   "name": "@onehilltech/override",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Utility for overriding a single function and exposing a _super reference",
   "main": "index.js",
   "scripts": {
